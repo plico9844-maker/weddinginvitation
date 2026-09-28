@@ -18,33 +18,33 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "신랑",
-    nameEn: "Groom",
-    father: "여기서이렇게이름을바꾸시면됩니다",
-    mother: "어머니",
+    name: "김정환",
+    nameEn: "Kim Jung Hwan",
+    father: "김부갑",
+    mother: "안상숙",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   bride: {
-    name: "신부",
-    nameEn: "Bride",
-    father: "아버지",
-    mother: "어머니",
+    name: "정민지",
+    nameEn: "Jung Min Jee",
+    father: "정재은",
+    mother: "이형남",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   wedding: {
-    date: "2026-05-09",
-    time: "13:00",
-    venue: "예식장 이름",
-    hall: "그랜드홀 5층",
-    address: "서울특별시 강남구 테헤란로 123",
-    tel: "02-1234-5678",
+    date: "2026-12-05",
+    time: "11:00",
+    venue: "SW 컨벤션센터",
+    hall: "11F 단독홀",
+    address: "서울 종로구 지봉로 19 : 시즌빌딩 11F",
+    tel: "02-3673-5000",
     mapLinks: {
-      kakao: "https://map.kakao.com/",
-      naver: "https://map.naver.com/"
+      kakao: "https://place.map.kakao.com/7918739",
+      naver: "https://naver.me/GzE9CXtD"
     }
   },
 
