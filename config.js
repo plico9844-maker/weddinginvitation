@@ -43,7 +43,7 @@ const CONFIG = {
     address: "서울 종로구 지봉로 19 : 시즌빌딩 11F",
     tel: "02-3673-5000",
     mapLinks: {
-      kakao: "https://place.map.kakao.com/7918739",
+      kakao: "https://kko.to/FKKFOOZI73",
       naver: "https://naver.me/GzE9CXtD"
     }
   },
